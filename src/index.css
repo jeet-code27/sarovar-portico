@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.libre-caslon-display-regular {
+    font-family: "Libre Caslon Display", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  .homemade-apple-regular {
+    font-family: "Homemade Apple", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
